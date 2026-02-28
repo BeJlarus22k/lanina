@@ -1,0 +1,39 @@
+body
+{
+   background-color: #FFF5EE;
+   color: #000000;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 16px;
+   line-height: 1.1875;
+   margin: 0;
+   padding: 0;
+}
+#Scribble1
+{
+   border-width: 0;
+   height: 234px;
+   width: 985px;
+}
+#Scribble2
+{
+   border-width: 0;
+   height: 256px;
+   width: 1004px;
+}
+#wb_Image1
+{
+   vertical-align: top;
+}
+#Image1
+{
+   border: 0px solid #000000;
+   border-radius: 0px;
+   box-sizing: border-box;
+   padding: 0;
+   margin: 0;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
